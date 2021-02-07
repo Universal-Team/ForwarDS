@@ -1,0 +1,7 @@
+<shortcut>
+	<executable>/3ds/ForwarDS.3dsx</executable>
+	<arg>"sdmc:/3ds/ForwarDS/forwarders/Test.ini"</arg>
+	<name>Title of Game</name>
+	<description>Description of Game</description>
+	<author>Author of Game</author>
+</shortcut>

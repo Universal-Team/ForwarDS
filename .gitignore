@@ -1,0 +1,13 @@
+
+*.exe
+*.bin
+*.d
+*.o
+*.lst
+*.map
+ForwarDS/build/sprites.h
+*.smdh
+*.elf
+*.cia
+*.3dsx
+*.t3x

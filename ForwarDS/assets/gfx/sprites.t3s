@@ -1,0 +1,7 @@
+--atlas -f rgba8888 -z auto
+
+sprites/bottom.png
+sprites/box.png
+sprites/button.png
+sprites/button2.png
+sprites/top.png
